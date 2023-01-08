@@ -2,6 +2,9 @@
 
 One Stop solution for housemembers to divide their chores.
 
+Designed and deployed IOS app that enabled users to efficiently create house groups and assign tasks
+between members. Deployed backend infrastructure using Firebase and Firestore.
+
 
 ![Simulator Screen Shot - iPhone 14 - 2023-01-03 at 12 51 01](https://user-images.githubusercontent.com/53275147/211192006-5cd98124-bc95-4406-b352-b9f7f76e6573.png)
 ![Simulator Screen Shot - iPhone 14 - 2023-01-03 at 13 05 48](https://user-images.githubusercontent.com/53275147/211192007-14d065ca-d5a1-45dd-bfff-7bcf972ffb73.png)
